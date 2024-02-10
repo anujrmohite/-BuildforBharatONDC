@@ -1,6 +1,6 @@
 # ONDC Routing Backend
 
-![Architecture](/image.jpeg)
+![image](https://github.com/anujrmohite/BuildforBharatONDC/assets/40718422/42c3b8ae-93e8-4ddc-88fd-a89c0a16893b)
 
 ## Dependencies
 

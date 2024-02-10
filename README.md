@@ -1,5 +1,7 @@
 # ONDC Routing Backend
 
+![Architecture](/image.jpeg)
+
 ## Dependencies
 
 Before installing OSRM, ensure that the following dependencies are installed on your system:
